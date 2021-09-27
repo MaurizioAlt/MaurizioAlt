@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MaurizioAlt
 - 👀 I’m interested in programming, cyber security, technology, problem solving, and analytics. 
 - 🗣️ I'm also interested in a project manager and product manager leadership position.
-- 🌱 I’m currently enrolled at UCF as a Masters Student.
-- 💞️ I’m looking to showcase my projects and collaborations, as well as looking for a full-time position.
+- 🌱 I’m currently enrolled at UCF as a Masters Student, expected graduation May 2022. 
+- 💞️ I’m looking to showcase my projects and collaborations, as well as looking for a full-time position. 
 - 📫 How to reach me: maurizioaltamura2@gmail.com
 
 <!---
